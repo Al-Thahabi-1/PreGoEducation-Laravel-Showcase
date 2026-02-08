@@ -39,9 +39,9 @@ features, and development approach.
 - This repository is for **portfolio and demonstration purposes only**
 
 ### 📸 Screenshots 
-![Universities](docs/screen/universities.png)
-![page](docs/screen/university.png) 
-![Services](docs/screen/services.png)
+![Universities](universities.png)
+![page](university.png) 
+![Services](services.png)
 
 ### 🌐 Website 
 Visit the live platform → https://eduprego.com
