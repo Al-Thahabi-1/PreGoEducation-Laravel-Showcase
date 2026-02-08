@@ -42,3 +42,6 @@ features, and development approach.
 ![Universities](docs/screen/universities.png)
 ![page](docs/screen/university.png) 
 ![Services](docs/screen/services.png)
+
+### 🌐 Website 
+Visit the live platform → https://eduprego.com
